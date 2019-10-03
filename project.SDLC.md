@@ -1,10 +1,11 @@
-Admin-----
+# Admin-----
+
          |-login && register
             --open index of admin
             --post Blog{tittle,date,Author,} #Try posting image@ 
                 |-update
 		 -delete
-End user---
+# End user---
 	|-Home page
      	  --views {[home,blogs,resources,project]}          
 		
@@ -17,10 +18,10 @@ End user---
 		--Project
 			|-fecht from github
 			 -categories{{Web dev,Android,machine learing,data analysis,IOT,security,}}
-social platforms--
+# Social platforms--
 		github--
 		heroku--
 		telegram--
 		twitter--
 		facebook--
-@lisence{{mit,Gnu ,Devhublu.codz}}
+# @lisence{{mit,Gnu ,Devhublu.codz}}
